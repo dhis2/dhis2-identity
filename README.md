@@ -2,8 +2,8 @@
 ---
 These guidelines exist to ensure consistent communication with the DHIS2 brand. There are some rules and some recommendations. This is a living document that will be updated as the brand evolves. Please reach out if there are elements that are missing.
 
-#Logo
-##Master Logo
+# Logo
+## Master Logo
 ![dhis2 master logo][masterLogo]
 
 The master DHIS2 logo should be used at all, whenever possible. The master logo is a blue colored icon with black colored dhis2 wordmark.
@@ -11,8 +11,8 @@ The master DHIS2 logo should be used at all, whenever possible. The master logo 
 [Download master logo (PNG format)](../blob/master/web/Logo/Default/dhis2-logo-rgb-positive.png)<br>
 [Download master logo (SVG format)](../blob/master/web/Logo/Default/dhis2-logo-rgb-positive.svg)
 
-##Logo Variations
-###Reversed Logo
+## Logo Variations
+### Reversed Logo
 ![dhis2 reversed logo][reversedLogo]
 
 When placing the DHIS2 logo on a dark background, the reversed version can be used. The icon and wordmark are white in this version.
@@ -20,7 +20,7 @@ When placing the DHIS2 logo on a dark background, the reversed version can be us
 [Download reversed logo (PNG format)](../blob/master/web/Logo/Reversed/dhis2-logo-rgb-negative.png)<br>
 [Download reversed logo (SVG format)](../blob/master/web/Logo/Reversed/dhis2-logo-rgb-negative.svg)
 
-###Icon only
+### Icon only
 ![dhis2 icon only examples][iconCombo]
 
 There are times when it makes sense to use only the DHIS2 icon, such as in headers, toolbars and app icons. There are both blue colored and white colored icons, and these should be used as the main logo is used – blue colored where possible and white colored on darker backgrounds.
@@ -30,7 +30,7 @@ There are times when it makes sense to use only the DHIS2 icon, such as in heade
 [Download reversed icon (PNG format)](../blob/master/web/Icon%20only/Reversed/dhis2-icon-rgb-negative.png)<br>
 [Download reversed icon (SVG format)](../blob/master/web/Icon%20only/Reversed/dhis2-icon-rgb-negative.svg)
 
-###Favicon
+### Favicon
 ![dhis2 favicon examples][favicon]
 
 The Favicon for DHIS2 is cutomised for use on the following platforms:
@@ -46,26 +46,26 @@ All relevant image and icon files are available to download:
 [Download favicon package](https://github.com/dhis2/identity/tree/master/web/favicon_package)
 
 
-#Typography
-###Communication
+# Typography
+### Communication
 ![dhis2 Typography][typo]
 
 The same font should be used across all platforms: DHIS2 website, academy materials etc. The font used is the open-source Rubik from Google Fonts. [Download Rubik](../blob/master) 
 
 
-###DHIS2 Logo
+### DHIS2 Logo
 The font used in the DHIS2 logo is the open-source Karla from Google Fonts. Always use the premade DHIS2 logos, do not create new logos using text. The font file and license are stored in this repository, if needed.
 
 
 ---
 
-#Color
+# Color
 
 Work in progress
 
 ---
 
-#Graphic Elements
+# Graphic Elements
 
 Work in progress
 
