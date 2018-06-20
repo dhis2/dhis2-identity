@@ -8,8 +8,8 @@ These guidelines exist to ensure consistent communication with the DHIS2 brand. 
 
 The master DHIS2 logo should be used at all, whenever possible. The master logo is a blue colored icon with black colored dhis2 wordmark.
 
-[Download master logo (PNG format)](/blob/master/web/Logo/Default/dhis2-logo-rgb-positive.png)<br>
-[Download master logo (SVG format)](/blob/master/web/Logo/Default/dhis2-logo-rgb-positive.svg)
+[Download master logo (PNG format)](/web/Logo/Default/dhis2-logo-rgb-positive.png)<br>
+[Download master logo (SVG format)](/web/Logo/Default/dhis2-logo-rgb-positive.svg)
 
 ## Logo Variations
 ### Reversed Logo
@@ -17,18 +17,18 @@ The master DHIS2 logo should be used at all, whenever possible. The master logo 
 
 When placing the DHIS2 logo on a dark background, the reversed version can be used. The icon and wordmark are white in this version.
 
-[Download reversed logo (PNG format)](/blob/master/web/Logo/Reversed/dhis2-logo-rgb-negative.png)<br>
-[Download reversed logo (SVG format)](/blob/master/web/Logo/Reversed/dhis2-logo-rgb-negative.svg)
+[Download reversed logo (PNG format)](/web/Logo/Reversed/dhis2-logo-rgb-negative.png)<br>
+[Download reversed logo (SVG format)](/web/Logo/Reversed/dhis2-logo-rgb-negative.svg)
 
 ### Icon only
 ![dhis2 icon only examples][iconCombo]
 
 There are times when it makes sense to use only the DHIS2 icon, such as in headers, toolbars and app icons. There are both blue colored and white colored icons, and these should be used as the main logo is used – blue colored where possible and white colored on darker backgrounds.
 
-[Download icon (PNG format)](/blob/master/web/Icon%20only/Default/dhis2-icon-rgb-positive.png)<br>
-[Download icon (SVG format)](/blob/master/web/Icon%20only/Default/dhis2-icon-rgb-positive.svg)<br>
-[Download reversed icon (PNG format)](/blob/master/web/Icon%20only/Reversed/dhis2-icon-rgb-negative.png)<br>
-[Download reversed icon (SVG format)](/blob/master/web/Icon%20only/Reversed/dhis2-icon-rgb-negative.svg)
+[Download icon (PNG format)](/web/Icon%20only/Default/dhis2-icon-rgb-positive.png)<br>
+[Download icon (SVG format)](/web/Icon%20only/Default/dhis2-icon-rgb-positive.svg)<br>
+[Download reversed icon (PNG format)](/web/Icon%20only/Reversed/dhis2-icon-rgb-negative.png)<br>
+[Download reversed icon (SVG format)](/web/Icon%20only/Reversed/dhis2-icon-rgb-negative.svg)
 
 ### Favicon
 ![dhis2 favicon examples][favicon]
