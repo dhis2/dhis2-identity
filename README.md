@@ -65,27 +65,41 @@ Color is used sparingly throughout DHIS2 materials. The DHIS2 style is clean and
 
 The following colors can be used throughout materials both digital and print. See Examples in Use for suggestions for color use. 
 
-<div style=" width: 70px; height: 70px; -webkit-border-radius: 36px; -moz-border-radius: 36px; border-radius: 36px; background: #ffffff;box-shadow: inset 0 0 0 1px #cacaca;"><p style="padding-left:80px; width:250px;">HEX: #FFFFFF<br/>RGB: 255 / 255 / 255<br/>CMYK  0 / 0 / 0 / 0</p></div>
+HEX: #FFFFFF
+RGB: 255 / 255 / 255
+CMYK  0 / 0 / 0 / 0
+
       
 ###White
 Is white a color? The debate rages on. White is listed here at the top of this list to reiterate how important the usage of white space is in the DHIS2 identity. White space on posters, presentations and other materials communicates DHIS2 as a clean, confident and modern entity, an important part of the new identity. Do not be afriad to leave generous white space in all materials. The main color of most DHIS2 materials should be white.
 
-<div style=" width: 70px; height: 70px; -webkit-border-radius: 36px; -moz-border-radius: 36px; border-radius: 36px; background: #43CBCB;"><p style="padding-left:80px; width:250px;">HEX: #43CBCB<br/>RGB: 67 / 203 / 203<br/>CMYK  62 / 0 / 26 / 0</p></div>
+HEX: #43CBCB
+RGB: 67 / 203 / 203
+CMYK  62 / 0 / 26 / 0
       
 ###DHIS2 Accent
 This accent color works well for small graphic elements, bringing an interesting visual element to the otherwise white, clean materials. This color is best used in moderation, it works well when used to thin divider elements or headers/footers. The white (negative) DHIS2 logo should not be placed on top of this color, instead use DHIS2 Accent Dark. 
 
-<div style=" width: 70px; height: 70px; -webkit-border-radius: 36px; -moz-border-radius: 36px; border-radius: 36px; background: #D8F7F7;"><p style="padding-left:80px; width:250px;">HEX: #D8F7F7<br/>RGB: 216 / 247 / 247<br/>CMYK  13 / 0 / 4 / 0</p></div>
+HEX: #D8F7F7
+RGB: 216 / 247 / 247
+CMYK  13 / 0 / 4 / 0
       
 ###DHIS2 Accent Light
+
 A lighter shade of the accent color is provided for use in larger areas where the DHIS2 Accent color is too overwhelming. This color can be used behind titles to create eye-catching blocks of text. This light color is suited for used with graphical elements, placing them as background graphics that are not too distracting.
 
-<div style=" width: 70px; height: 70px; -webkit-border-radius: 36px; -moz-border-radius: 36px; border-radius: 36px; background: #393D4D;"><p style="padding-left:80px; width:250px;">HEX: #393D4D<br/>RGB: 57 / 61 / 77<br/>CMYK  77 / 69 / 48 / 40</p></div>
+HEX: #393D4D
+RGB: 57 / 61 / 77
+CMYK  77 / 69 / 48 / 40
+
 
 ###DHIS2 Accent Dark
 This dark color is great for use as a background in situations where a white background is not suitable. This darker color is more traditional and safe than the other accent colors, so is better suited to use in areas where a traditional approach is necessary. This color is less fun and accessible, and communicates seriousness and stability. This color works well with the white (negative) version of the DHIS2 logo.
 
-<div style=" width: 70px; height: 70px; -webkit-border-radius: 36px; -moz-border-radius: 36px; border-radius: 36px; background: #FF8F02;"><p style="padding-left:80px; width:250px;">HEX: #FF8F02<br/>RGB: 255 / 143 / 2<br/>CMYK  0 / 53 / 100 / 0</p></div>
+HEX: #FF8F02
+RGB: 255 / 143 / 2
+CMYK  0 / 53 / 100 / 0
+
 
 ###DHIS2 Accent Alt
 An alternative accent color that should rarely be used. This bright, eye-catching color can be used in designs where an extra color element is needed, however it should be handled with care as it can quickly overwhelm a design. One area it could work, for example, is the color of bullet points on a DHIS2 poster. The orange color should never be used as a background, or placed behind the DHIS2 logo.
