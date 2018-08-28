@@ -65,46 +65,46 @@ Color is used sparingly throughout DHIS2 materials. The DHIS2 style is clean and
 
 The following colors can be used throughout materials both digital and print. See Examples in Use for suggestions for color use. 
 
-HEX: #FFFFFF
-RGB: 255 / 255 / 255
-CMYK  0 / 0 / 0 / 0
+`HEX: #FFFFFF`
+`RGB: 255 / 255 / 255`
+`CMYK  0 / 0 / 0 / 0`
 
       
-###White
+### White
 Is white a color? The debate rages on. White is listed here at the top of this list to reiterate how important the usage of white space is in the DHIS2 identity. White space on posters, presentations and other materials communicates DHIS2 as a clean, confident and modern entity, an important part of the new identity. Do not be afriad to leave generous white space in all materials. The main color of most DHIS2 materials should be white.
 
-HEX: #43CBCB
-RGB: 67 / 203 / 203
-CMYK  62 / 0 / 26 / 0
+`HEX: #43CBCB`
+`RGB: 67 / 203 / 203`
+`CMYK  62 / 0 / 26 / 0`
       
-###DHIS2 Accent
+### DHIS2 Accent
 This accent color works well for small graphic elements, bringing an interesting visual element to the otherwise white, clean materials. This color is best used in moderation, it works well when used to thin divider elements or headers/footers. The white (negative) DHIS2 logo should not be placed on top of this color, instead use DHIS2 Accent Dark. 
 
-HEX: #D8F7F7
-RGB: 216 / 247 / 247
-CMYK  13 / 0 / 4 / 0
+`HEX: #D8F7F7`
+`RGB: 216 / 247 / 247`
+`CMYK  13 / 0 / 4 / 0`
       
-###DHIS2 Accent Light
+### DHIS2 Accent Light
 
 A lighter shade of the accent color is provided for use in larger areas where the DHIS2 Accent color is too overwhelming. This color can be used behind titles to create eye-catching blocks of text. This light color is suited for used with graphical elements, placing them as background graphics that are not too distracting.
 
-HEX: #393D4D
-RGB: 57 / 61 / 77
-CMYK  77 / 69 / 48 / 40
+`HEX: #393D4D`
+`RGB: 57 / 61 / 77`
+`CMYK  77 / 69 / 48 / 40`
 
 
-###DHIS2 Accent Dark
+### DHIS2 Accent Dark
 This dark color is great for use as a background in situations where a white background is not suitable. This darker color is more traditional and safe than the other accent colors, so is better suited to use in areas where a traditional approach is necessary. This color is less fun and accessible, and communicates seriousness and stability. This color works well with the white (negative) version of the DHIS2 logo.
 
-HEX: #FF8F02
-RGB: 255 / 143 / 2
-CMYK  0 / 53 / 100 / 0
+`HEX: #FF8F02`
+`RGB: 255 / 143 / 2`
+`CMYK  0 / 53 / 100 / 0`
 
 
-###DHIS2 Accent Alt
+### DHIS2 Accent Alt
 An alternative accent color that should rarely be used. This bright, eye-catching color can be used in designs where an extra color element is needed, however it should be handled with care as it can quickly overwhelm a design. One area it could work, for example, is the color of bullet points on a DHIS2 poster. The orange color should never be used as a background, or placed behind the DHIS2 logo.
 
-###DHIS2 logo blue?
+### DHIS2 logo blue?
 The blue color used in the DHIS2 logo icon is purposefully not included here. This blue color should be used only for the logo icon, never in any other way. It is important for recognisability, consistency and stability that this blue color is only associated with the DHIS2 logo.
 
 ---
@@ -115,20 +115,20 @@ In order for DHIS2 to communicate its flexibility, graphic elements are kept amb
 
 ![graphic example][graphicExample]
 
-###Oblong shape
+### Oblong shape
 The oblong shape that makes up the DHIS2 logo can be used to create a graphic pattern that adds interest and personality in an ambigous way. The soft edges communicate an approachable system. This graphic pattern is available in this repository in several different formats, sizes and types for use in presentations, documents and other materials. 
 
-####Usage
+#### Usage
 The pattern is best used at the bottom, or sides of a document/signage. The pattern is available in different types: block, which has hard egdes, and faded, which fades the pattern gradually to transparent.
 
 See the below Examples in Use for further suggestions for usage. Templates are provided in this repository for common formats.
 
-###DHIS2 Icon
+### DHIS2 Icon
 The DHIS2 icon used in the logo should not be used as a graphical element. It can be used as a logo, but it should not be used large, repeated as a pattern or altered in any way. Remember, the integrity of the DHIS2 is essential to stability of DHIS2's communication.
 
 ---
 
-#Examples in use
+# Examples in use
 
 ![DHIS2 banner][banner]
 *Example of a banner element with a fading graphic element on the right*
