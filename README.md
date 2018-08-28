@@ -67,6 +67,8 @@ The following colors can be used throughout materials both digital and print. Se
       
 ### White
 
+![Color: White](https://github.com/dhis2/dhis2-identity/blob/exampleUpdates/guide%20assets/accentWhite.png?raw=true "Color White")
+
 `HEX: #FFFFFF`
 `RGB: 255 / 255 / 255`
 `CMYK  0 / 0 / 0 / 0`
@@ -76,7 +78,7 @@ Is white a color? The debate rages on. White is listed here at the top of this l
       
 ### DHIS2 Accent
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Color: Accent](https://github.com/dhis2/dhis2-identity/blob/exampleUpdates/guide%20assets/accent.png?raw=true "Color Accent")
 
 `HEX: #43CBCB`
 `RGB: 67 / 203 / 203`
@@ -87,6 +89,8 @@ This accent color works well for small graphic elements, bringing an interesting
       
 ### DHIS2 Accent Light
 
+![Color: Accent Light](https://github.com/dhis2/dhis2-identity/blob/exampleUpdates/guide%20assets/accentLight.png?raw=true "Color Accent Light")
+
 `HEX: #D8F7F7`
 `RGB: 216 / 247 / 247`
 `CMYK  13 / 0 / 4 / 0`
@@ -96,6 +100,8 @@ A lighter shade of the accent color is provided for use in larger areas where th
 
 ### DHIS2 Accent Dark
 
+![Color: Accent Dark](https://github.com/dhis2/dhis2-identity/blob/exampleUpdates/guide%20assets/accentDark.png?raw=true "Color Accent Dark")
+
 `HEX: #393D4D`
 `RGB: 57 / 61 / 77`
 `CMYK  77 / 69 / 48 / 40`
@@ -104,6 +110,8 @@ This dark color is great for use as a background in situations where a white bac
 
 
 ### DHIS2 Accent Alt
+
+![Color: Accent Alt](https://github.com/dhis2/dhis2-identity/blob/exampleUpdates/guide%20assets/accentAlt.png?raw=true "Color Accent Alt")
 
 `HEX: #FF8F02`
 `RGB: 255 / 143 / 2`
