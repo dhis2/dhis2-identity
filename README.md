@@ -64,44 +64,51 @@ The font used in the DHIS2 logo is the open-source Karla from Google Fonts. Alwa
 Color is used sparingly throughout DHIS2 materials. The DHIS2 style is clean and fresh, color should therefore be used only as a supporting element and not as the main element.
 
 The following colors can be used throughout materials both digital and print. See Examples in Use for suggestions for color use. 
+      
+### White
 
 `HEX: #FFFFFF`
 `RGB: 255 / 255 / 255`
 `CMYK  0 / 0 / 0 / 0`
 
-      
-### White
 Is white a color? The debate rages on. White is listed here at the top of this list to reiterate how important the usage of white space is in the DHIS2 identity. White space on posters, presentations and other materials communicates DHIS2 as a clean, confident and modern entity, an important part of the new identity. Do not be afriad to leave generous white space in all materials. The main color of most DHIS2 materials should be white.
+
+      
+### DHIS2 Accent
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 `HEX: #43CBCB`
 `RGB: 67 / 203 / 203`
 `CMYK  62 / 0 / 26 / 0`
-      
-### DHIS2 Accent
+
 This accent color works well for small graphic elements, bringing an interesting visual element to the otherwise white, clean materials. This color is best used in moderation, it works well when used to thin divider elements or headers/footers. The white (negative) DHIS2 logo should not be placed on top of this color, instead use DHIS2 Accent Dark. 
+
+      
+### DHIS2 Accent Light
 
 `HEX: #D8F7F7`
 `RGB: 216 / 247 / 247`
 `CMYK  13 / 0 / 4 / 0`
-      
-### DHIS2 Accent Light
 
 A lighter shade of the accent color is provided for use in larger areas where the DHIS2 Accent color is too overwhelming. This color can be used behind titles to create eye-catching blocks of text. This light color is suited for used with graphical elements, placing them as background graphics that are not too distracting.
+
+
+### DHIS2 Accent Dark
 
 `HEX: #393D4D`
 `RGB: 57 / 61 / 77`
 `CMYK  77 / 69 / 48 / 40`
 
-
-### DHIS2 Accent Dark
 This dark color is great for use as a background in situations where a white background is not suitable. This darker color is more traditional and safe than the other accent colors, so is better suited to use in areas where a traditional approach is necessary. This color is less fun and accessible, and communicates seriousness and stability. This color works well with the white (negative) version of the DHIS2 logo.
+
+
+### DHIS2 Accent Alt
 
 `HEX: #FF8F02`
 `RGB: 255 / 143 / 2`
 `CMYK  0 / 53 / 100 / 0`
 
-
-### DHIS2 Accent Alt
 An alternative accent color that should rarely be used. This bright, eye-catching color can be used in designs where an extra color element is needed, however it should be handled with care as it can quickly overwhelm a design. One area it could work, for example, is the color of bullet points on a DHIS2 poster. The orange color should never be used as a background, or placed behind the DHIS2 logo.
 
 ### DHIS2 logo blue?
@@ -138,8 +145,7 @@ The DHIS2 icon used in the logo should not be used as a graphical element. It ca
 *Examples of different styles of booklet covers. The styles include: with a pattern, with a bold line, with Accent Light and with Accent Dark colors*
 
 
-![dhis2 poster][poster]
-*Example of a poster design that does not use photography, therefore keeping the content very ambiguous. The background uses a large graphical pattern*
+![dhis2 poster][poster]*Example of a poster design that does not use photography, therefore keeping the content very ambiguous. The background uses a large graphical pattern*
 
 
 ![dhis2 signs][A4signs]
