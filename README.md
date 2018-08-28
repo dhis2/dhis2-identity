@@ -119,13 +119,25 @@ The DHIS2 icon used in the logo should not be used as a graphical element. It ca
 ![DHIS2 banner][banner]
 *Example of a banner element with a fading graphic element on the right*
 
+
 ![dhis2 brochure covers][brochureCovers] 
 *Examples of different styles of booklet covers. The styles include: with a pattern, with a bold line, with Accent Light and with Accent Dark colors*
+
+
 ![dhis2 poster][poster]
+*Example of a poster design that does not use photography, therefore keeping the content very ambiguous. The background uses a large graphical pattern*
+
 
 ![dhis2 signs][A4signs]
+*Examples of simple A4 signage that can be printed from any printer. The example on the left demonstrates how the lighter Accent colors can be used for an approachable look. The sign on the right uses Accent Dark color and presents a more subdued, serious look.*
+
+
 ![dhis2 presentation][presentation]
+*Example of a presentation cover slide. The graphical element is used here in a block, adding visual interest without specifying an industry or context*
+
+
 ![dhis2 stationery][dhis2StationerySmall]
+*Example of various different printed items. The examples demonstrate the importance of the usage of white in the DHIS2 identity.*
 
 [masterLogo]: https://github.com/dhis2/identity/blob/master/guide%20assets/master.png?raw=true "DHIS2 master logo"
 [reversedLogo]: https://github.com/dhis2/identity/blob/master/guide%20assets/reverse.png?raw=true "DHIS2 reversed logo"
