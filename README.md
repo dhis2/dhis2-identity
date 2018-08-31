@@ -48,7 +48,7 @@ All relevant image and icon files are available to download:
 
 # Typography
 ### Communication
-<!--![dhis2 Typography][typo]-->
+![dhis2 Typography][typo]
 
 The same font should be used across all platforms: DHIS2 website, academy materials etc. The font used is the open-source Rubik from Google Fonts. [Download Rubik](https://github.com/dhis2/identity/tree/master/fonts) 
 
