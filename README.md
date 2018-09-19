@@ -182,6 +182,15 @@ The DHIS2 icon used in the logo should not be used as a graphical element. It ca
 ![dhis2 stationery][dhis2StationerySmall]
 *Example of various different printed items. The examples demonstrate the importance of the usage of white in the DHIS2 identity.*
 
+![dhis2 facebook profile][fbProfile]
+*Example of DHIS2 Facebook profile with new logo avatar*
+
+![dhis2 facebook post][fbPost]
+*Example of DHIS2 Facebook post with new logo avatar*
+
+![dhis2 twitter profile][twitterProfile]
+*Example of DHIS2 Twitter profile with new logo avatar*
+
 [masterLogo]: https://github.com/dhis2/identity/blob/master/guide%20assets/master.png?raw=true "DHIS2 master logo"
 [reversedLogo]: https://github.com/dhis2/identity/blob/master/guide%20assets/reverse.png?raw=true "DHIS2 reversed logo"
 [iconCombo]: https://github.com/dhis2/identity/blob/master/guide%20assets/iconCombo.png?raw=true "DHIS2 reversed logo"
@@ -196,3 +205,6 @@ The DHIS2 icon used in the logo should not be used as a graphical element. It ca
 [graphicExample]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/graphicExample.png?raw=true "Example of graphic element"
 [poster]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/poster.png?raw=true "Example of poster"
 [presentation]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/presentation.png?raw=true "Example of presentation"
+[fbProfile]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/desktopFB.png?raw=true "Example of facebook profile"
+[fbPost]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/FBPost.png?raw=true "Example of facebook post"
+[twitterProfile]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/twitterprofie.png?raw=true "Example of twitter profile"
