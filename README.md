@@ -6,7 +6,7 @@ These guidelines exist to ensure consistent communication with the DHIS2 brand. 
 ## Master Logo
 ![dhis2 master logo][masterLogo]
 
-The master DHIS2 logo should be used at all, whenever possible. The master logo is a blue colored icon with black colored dhis2 wordmark.
+The master DHIS2 logo should be used overall, whenever possible. The master logo is a blue colored icon with black colored dhis2 wordmark.
 
 [Download master logo (PNG format)](/web/Logo/Default/dhis2-logo-rgb-positive.png)<br>
 [Download master logo (SVG format)](/web/Logo/Default/dhis2-logo-rgb-positive.svg)
@@ -15,7 +15,7 @@ The master DHIS2 logo should be used at all, whenever possible. The master logo 
 ### Reversed Logo
 ![dhis2 reversed logo][reversedLogo]
 
-When placing the DHIS2 logo on a dark background, the reversed version can be used. The icon and wordmark are white in this version.
+When placing the DHIS2 logo on a dark background, the reversed version can be used. The icon and wordmark are white in this version. The reversed logo can be placed on any colored background, but ideally blue would be used to remain consistent with the DHIS2 brand.
 
 [Download reversed logo (PNG format)](/web/Logo/Reversed/dhis2-logo-rgb-negative.png)<br>
 [Download reversed logo (SVG format)](/web/Logo/Reversed/dhis2-logo-rgb-negative.svg)
