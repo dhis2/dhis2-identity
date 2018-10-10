@@ -2,6 +2,8 @@
 ---
 These guidelines exist to ensure consistent communication with the DHIS2 and DHIS2 Academy brand. There are some rules and some recommendations. This is a living document that will be updated as the brand evolves. Please reach out if there are elements that are missing.
 
+*Please note: The DHIS2 Academy Identity applies for both the DHIS2 Academies and the DHIS2 Online Academy. The academy type should be specified elsewhere in the text/website/information, not in the logo itself.*
+
 # Logo
 ## Master Logo
 ![dhis2 Academy master logo][masterLogoAca]
