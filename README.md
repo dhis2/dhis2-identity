@@ -50,7 +50,9 @@ All relevant image and icon files are available to download:
 ### Communication
 ![dhis2 Typography][typo]
 
-The same font should be used across all platforms: DHIS2 website, academy materials etc. The font used is the open-source Rubik from Google Fonts. [Download Rubik](https://github.com/dhis2/identity/tree/master/fonts) 
+The same font should be used across all communication platforms: DHIS2 website, academy materials etc (but not in software interface). The font used is the open-source Rubik from Google Fonts. [Download Rubik](https://github.com/dhis2/identity/tree/master/fonts) 
+
+Note: Rubik font should not be used in software interfaces (eg. in the main DHIS2 apps), it is the specified as DHIS2 typography for external elements only.
 
 
 ### DHIS2 Logo
