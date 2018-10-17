@@ -24,7 +24,7 @@ When placing the DHIS2 logo on a dark background, the reversed version can be us
 [Download reversed Academy logo (SVG format)](/academy/web/reversed/dhis2Academy-logo-rgb-negative.svg)<br>
 [Download reversed Academy logo (EPS format)](/academy/print/Reversed/dhis2Academy-logo-rgb-negative.eps)
 <br>
-Looking for the logo as it appears above? [Download the pre-made badge version](https://github.com/dhis2/dhis2-identity/tree/master/academy/web/reversed/badge)
+Looking for the logo as it appears above? [Download the pre-made badge version](https://github.com/dhis2/dhis2-identity/tree/master/academy/badge)
 
 ### Icon Only
 Where there is insufficient room for the full logo, use the Icon only version instead. This logo is supplied in the main [DHIS2 Identity Guidelines](https://github.com/dhis2/dhis2-identity#icon-only).
