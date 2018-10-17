@@ -11,7 +11,8 @@ These guidelines exist to ensure consistent communication with the DHIS2 and DHI
 The master DHIS2 Academy logo should be used overall, whenever possible. The master logo is a blue colored icon with black colored dhis2 wordmark and a grey colored Academy wordmark.
 
 [Download master Academy logo (PNG format)](/academy/web/default/dhis2Academy-logo-rgb-positive.png)<br>
-[Download master Academy logo (SVG format)](/academy/web/default/dhis2Academy-logo-rgb-positive.svg)
+[Download master Academy logo (SVG format)](/academy/web/default/dhis2Academy-logo-rgb-positive.svg)<br>
+[Download master Academy logo (EPS format)](/academy/print/Default/dhis2Academy-logo-rgb-positive.eps)
 
 ## Logo Variations
 ### Reversed Logo
@@ -21,6 +22,7 @@ When placing the DHIS2 logo on a dark background, the reversed version can be us
 
 [Download reversed Academy logo (PNG format)](/academy/web/reversed/dhis2Academy-logo-rgb-negative.png)<br>
 [Download reversed Academy logo (SVG format)](/academy/web/reversed/dhis2Academy-logo-rgb-negative.svg)<br>
+[Download reversed Academy logo (EPS format)](/academy/print/Reversed/dhis2Academy-logo-rgb-negative.eps)
 <br>
 Looking for the logo as it appears above? [Download the pre-made badge version](https://github.com/dhis2/dhis2-identity/tree/master/academy/web/reversed/badge)
 
