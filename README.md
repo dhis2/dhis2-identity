@@ -179,22 +179,22 @@ Try to always give the logo breathing room when placed next to other elements. A
 Whenever possible, on all light backgrounds, use the full color logo. Only use the reversed (all-white) version of the logo on dark backgrounds.
 
 ### Don't: Change the color of any of the text
-![Example logo in use][logo-fail-2]
+![Example logo in use][logo-fail-1]
 ### Don't: Change the layout of the text and/or icon
-
+![Example logo in use][logo-fail-2]
 ### Don't: Change the color of the icon
-
+![Example logo in use][logo-fail-3]
 ### Don't: Add other text to the logo
 Special events/other departments should not add their taglines/names to the DHIS2 logo. Special events can be noted in their own way, eg. with a unique, non-DHIS2 logo.
-
+![Example logo in use][logo-fail-4]
 ### Don't: Add visual effects to the logo
 Drop-shadows, outlines, borders and other effects should not be used. If the logo is not clear, try modifying the background or using another version of the DHIS2 logo.
-
+![Example logo in use][logo-fail-5]
 ### Don't: Remove parts of the logo
 The logo should always be used in full. Limited space? Try using the icon-only version.
-
+![Example logo in use][logo-fail-6]
 ### Don't: Add other shapes to the logo
-
+![Example logo in use][logo-fail-7]
 
 ---
 
@@ -256,3 +256,6 @@ The logo should always be used in full. Limited space? Try using the icon-only v
 [logo-fail-1]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-1.png?raw=true "Best Practice, Fail 1"
 [logo-fail-2]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-2.png?raw=true "Best Practice, Fail 2"
 [logo-fail-3]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-3.png?raw=true "Best Practice, Fail 3"
+[logo-fail-1]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-4.png?raw=true "Best Practice, Fail 4"
+[logo-fail-2]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-5.png?raw=true "Best Practice, Fail 5"
+[logo-fail-3]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-6.png?raw=true "Best Practice, Fail 6"
