@@ -260,4 +260,4 @@ The logo should always be used in full. Limited space? Try using the icon-only v
 [logo-fail-4]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-4.png?raw=true "Best Practice, Fail 4"
 [logo-fail-5]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-5.png?raw=true "Best Practice, Fail 5"
 [logo-fail-6]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-6.png?raw=true "Best Practice, Fail 6"
-[logo-fail-7]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-6.png?raw=true "Best Practice, Fail 7"
+[logo-fail-7]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-7.png?raw=true "Best Practice, Fail 7"
