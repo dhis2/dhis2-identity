@@ -164,6 +164,40 @@ The DHIS2 icon used in the logo should not be used as a graphical element. It ca
 
 ---
 
+# Best practices
+Follow these guidelines when using the DHIS2 logo to ensure consistency and reliability across all DHIS2 materials. Using consistent branding everywhere makes DHIS2 more trustworthy and accessible for all.
+
+### Do: Use the offical logo files
+The official DHIS2 logos can be downloaded in various formats from this repo. Use these files in all materials, do not recreate the logo or icon.
+![Example logo in use][logo-pass-1]
+
+### Do: Give the logo plenty of space
+Try to always give the logo breathing room when placed next to other elements. As a general rule, provide space of at least the height of the 2 from the logo.
+![Example logo in use][logo-pass-2]
+
+### Do: Use the correct logo for the background
+Whenever possible, on all light backgrounds, use the full color logo. Only use the reversed (all-white) version of the logo on dark backgrounds.
+
+### Don't: Change the color of any of the text
+![Example logo in use][logo-fail-2]
+### Don't: Change the layout of the text and/or icon
+
+### Don't: Change the color of the icon
+
+### Don't: Add other text to the logo
+Special events/other departments should not add their taglines/names to the DHIS2 logo. Special events can be noted in their own way, eg. with a unique, non-DHIS2 logo.
+
+### Don't: Add visual effects to the logo
+Drop-shadows, outlines, borders and other effects should not be used. If the logo is not clear, try modifying the background or using another version of the DHIS2 logo.
+
+### Don't: Remove parts of the logo
+The logo should always be used in full. Limited space? Try using the icon-only version.
+
+### Don't: Add other shapes to the logo
+
+
+---
+
 # Examples in use
 
 ![DHIS2 banner][banner]
@@ -214,3 +248,11 @@ The DHIS2 icon used in the logo should not be used as a graphical element. It ca
 [fbProfile]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/desktopFB.png?raw=true "Example of facebook profile"
 [fbPost]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/FBPost.png?raw=true "Example of facebook post"
 [twitterProfile]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/twitterprofie.png?raw=true "Example of twitter profile"
+
+[logo-pass-1]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-pass-1.png?raw=true "Best Practice, Pass 1"
+[logo-pass-2]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-pass-2.png?raw=true "Best Practice, Pass 2"
+[logo-pass-3]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-pass-3.png?raw=true "Best Practice, Pass 3"
+
+[logo-fail-1]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-1.png?raw=true "Best Practice, Fail 1"
+[logo-fail-2]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-2.png?raw=true "Best Practice, Fail 2"
+[logo-fail-3]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-3.png?raw=true "Best Practice, Fail 3"
