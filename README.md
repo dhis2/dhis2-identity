@@ -54,9 +54,15 @@ All relevant image and icon files are available to download:
 ### Communication
 ![dhis2 Typography][typo]
 
-The same font should be used across all communication platforms: DHIS2 website, academy materials etc (but not in software interface). The font used is the open-source Rubik from Google Fonts. [Download Rubik](https://github.com/dhis2/identity/tree/master/fonts) 
+The same fonts should be used across all communication platforms: DHIS2 website, academy materials etc (but not in software 
 
-Note: Rubik font should not be used in software interfaces (eg. in the main DHIS2 apps), it is the specified as DHIS2 typography for external elements only.
+### Brand Font
+The brand font should be used to help identify DHIS2. It should be used as titles, headlines and all areas where it is important to identify the brand. Need a font for large amounts of text? Use Lato, (see below). The brand font used is the open-source Rubik from Google Fonts. [Download Rubik](https://github.com/dhis2/identity/tree/master/fonts) 
+
+### Text-heavy font
+In places where Rubik is not a suitable font, for example large amounts of text, use Lato as a body font. Lato is open-source, available from Google Fonts. [Download Lato](https://fonts.google.com/specimen/Lato).
+
+Note: Rubik/Lato font should not be used in software interfaces (eg. in the main DHIS2 apps), it is the specified as DHIS2 typography for external elements only.
 
 
 ### DHIS2 Logo
