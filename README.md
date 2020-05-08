@@ -8,7 +8,7 @@ These guidelines exist to ensure consistent communication with the DHIS2 brand. 
 
 ## Master Logo
 
-<img src="/web/Logo/Default/dhis2-logo-rgb-positive.png" width="400"></img>
+<img src="/web/Logo/Default/dhis2-logo-rgb-positive.png" width="400"/>
 
 The master DHIS2 logo should be used overall, whenever possible. The master logo is a blue colored icon with black colored dhis2 wordmark.
 
@@ -20,7 +20,7 @@ The master DHIS2 logo should be used overall, whenever possible. The master logo
 
 ### Reversed Logo
 
-<img src="/web/Logo/Reversed/dhis2-logo-rgb-negative.png" width="400"></img>
+<img src="/web/Logo/Reversed/dhis2-logo-rgb-negative.png" width="360" style="background:#276696; padding:24px; border-radius:8px;"/>
 
 When placing the DHIS2 logo on a dark background, the reversed version can be used. The icon and wordmark are white in this version. The reversed logo can be placed on any colored background, but ideally blue would be used to remain consistent with the DHIS2 brand.
 
@@ -33,6 +33,10 @@ When placing the DHIS2 logo on a dark background, the reversed version can be us
 ![dhis2 icon only examples][iconcombo]
 
 There are times when it makes sense to use only the DHIS2 icon, such as in headers, toolbars and app icons. There are both blue colored and white colored icons, and these should be used as the main logo is used – blue colored where possible and white colored on darker backgrounds.
+
+<img src="/web/Icon%20only/Default/dhis2-icon-rgb-positive.png" width="60" style="background: white; padding: 16px; margin-right:32px;" />
+
+<img src="/web/Icon%20only/Reversed/dhis2-icon-rgb-negative.png" width="60" style="background:#276696; padding:16px; border-radius:8px;"/>
 
 [Download icon (PNG format)](/web/Icon%20only/Default/dhis2-icon-rgb-positive.png)<br>
 [Download icon (SVG format)](/web/Icon%20only/Default/dhis2-icon-rgb-positive.svg)<br>
