@@ -91,7 +91,7 @@ The following colors can be used throughout materials both digital and print. Se
 
 ### White
 
-![Color: White](https://github.com/dhis2/dhis2-identity/blob/exampleUpdates/guide%20assets/accentWhite.png?raw=true "Color White")
+![Color: White](guide%20assets/accentWhite.png?raw=true "Color White")
 
 `HEX: #FFFFFF`
 `RGB: 255 / 255 / 255`
@@ -101,7 +101,7 @@ Is white a color? The debate rages on. White is listed here at the top of this l
 
 ### DHIS2 Accent
 
-![Color: Accent](https://github.com/dhis2/dhis2-identity/blob/exampleUpdates/guide%20assets/accent.png?raw=true "Color Accent")
+![Color: Accent](guide%20assets/accent.png?raw=true "Color Accent")
 
 `HEX: #43CBCB`
 `RGB: 67 / 203 / 203`
@@ -112,7 +112,7 @@ This accent color works well for small graphic elements, bringing an interesting
 
 ### DHIS2 Accent Light
 
-![Color: Accent Light](https://github.com/dhis2/dhis2-identity/blob/exampleUpdates/guide%20assets/accentLight.png?raw=true "Color Accent Light")
+![Color: Accent Light](guide%20assets/accentLight.png?raw=true "Color Accent Light")
 
 `HEX: #D8F7F7`
 `RGB: 216 / 247 / 247`
@@ -123,7 +123,7 @@ A lighter shade of the accent color is provided for use in larger areas where th
 
 ### DHIS2 Accent Dark
 
-![Color: Accent Dark](https://github.com/dhis2/dhis2-identity/blob/exampleUpdates/guide%20assets/accentDark.png?raw=true "Color Accent Dark")
+![Color: Accent Dark](guide%20assets/accentDark.png?raw=true "Color Accent Dark")
 
 `HEX: #393D4D`
 `RGB: 57 / 61 / 77`
@@ -134,7 +134,7 @@ This dark color is great for use as a background in situations where a white bac
 
 ### DHIS2 Accent Alt
 
-![Color: Accent Alt](https://github.com/dhis2/dhis2-identity/blob/exampleUpdates/guide%20assets/accentAlt.png?raw=true "Color Accent Alt")
+![Color: Accent Alt](guide%20assets/accentAlt.png?raw=true "Color Accent Alt")
 
 `HEX: #FF8F02`
 `RGB: 255 / 143 / 2`
@@ -145,7 +145,7 @@ An alternative accent color that should rarely be used. This bright, eye-catchin
 
 ### DHIS2 Legacy Blue
 
-![Color: Accent Alt](https://github.com/dhis2/dhis2-identity/blob/exampleUpdates/guide%20assets/legacyBlue.png?raw=true "Color Accent Alt")
+![Color: Accent Alt](guide%20assets/legacyBlue.png?raw=true "Color Accent Alt")
 
 `HEX: #276696`
 `RGB: 39 / 102 / 150`
@@ -262,28 +262,28 @@ _Example of DHIS2 Facebook post with new logo avatar_
 ![dhis2 twitter profile][twitterprofile]
 _Example of DHIS2 Twitter profile with new logo avatar_
 
-[masterlogo]: https://github.com/dhis2/identity/blob/master/guide%20assets/master.png?raw=true "DHIS2 master logo"
-[reversedlogo]: https://github.com/dhis2/identity/blob/master/guide%20assets/reverse.png?raw=true "DHIS2 reversed logo"
-[iconcombo]: https://github.com/dhis2/identity/blob/master/guide%20assets/iconCombo.png?raw=true "DHIS2 reversed logo"
-[favicon]: https://github.com/dhis2/identity/blob/master/guide%20assets/favicon.png?raw=true "Favicon Example"
-[typo]: https://github.com/dhis2/identity/blob/master/guide%20assets/typography.png?raw=true "Typography Example"
-[a4signs]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/A4signs.png?raw=true "Example of A4 signage"
-[banner]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/banner.png?raw=true "Example of banner"
-[brochurecovers]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/brochureCovers.png?raw=true "Example of brochure covers"
-[dhis2stationerysmall]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/dhis2StationerySmall.png?raw=true "Example of stationery"
-[graphicexample]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/graphicExample.png?raw=true "Example of graphic element"
-[poster]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/poster.png?raw=true "Example of poster"
-[presentation]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/presentation.png?raw=true "Example of presentation"
-[fbprofile]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/desktopFB.png?raw=true "Example of facebook profile"
-[fbpost]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/FBPost.png?raw=true "Example of facebook post"
-[twitterprofile]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/twitterprofie.png?raw=true "Example of twitter profile"
-[logo-pass-1]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-pass-1.png?raw=true "Best Practice, Pass 1"
-[logo-pass-2]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-pass-2.png?raw=true "Best Practice, Pass 2"
-[logo-pass-3]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-pass-3.png?raw=true "Best Practice, Pass 3"
-[logo-fail-1]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-1.png?raw=true "Best Practice, Fail 1"
-[logo-fail-2]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-2.png?raw=true "Best Practice, Fail 2"
-[logo-fail-3]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-3.png?raw=true "Best Practice, Fail 3"
-[logo-fail-4]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-4.png?raw=true "Best Practice, Fail 4"
-[logo-fail-5]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-5.png?raw=true "Best Practice, Fail 5"
-[logo-fail-6]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-6.png?raw=true "Best Practice, Fail 6"
-[logo-fail-7]: https://github.com/dhis2/dhis2-identity/blob/master/guide%20assets/MAIN-fail-7.png?raw=true "Best Practice, Fail 7"
+[masterlogo]: guide%20assets/master.png?raw=true "DHIS2 master logo"
+[reversedlogo]: guide%20assets/reverse.png?raw=true "DHIS2 reversed logo"
+[iconcombo]: guide%20assets/iconCombo.png?raw=true "DHIS2 reversed logo"
+[favicon]: guide%20assets/favicon.png?raw=true "Favicon Example"
+[typo]: guide%20assets/typography.png?raw=true "Typography Example"
+[a4signs]: guide%20assets/A4signs.png?raw=true "Example of A4 signage"
+[banner]: guide%20assets/banner.png?raw=true "Example of banner"
+[brochurecovers]: guide%20assets/brochureCovers.png?raw=true "Example of brochure covers"
+[dhis2stationerysmall]: guide%20assets/dhis2StationerySmall.png?raw=true "Example of stationery"
+[graphicexample]: guide%20assets/graphicExample.png?raw=true "Example of graphic element"
+[poster]: guide%20assets/poster.png?raw=true "Example of poster"
+[presentation]: guide%20assets/presentation.png?raw=true "Example of presentation"
+[fbprofile]: guide%20assets/desktopFB.png?raw=true "Example of facebook profile"
+[fbpost]: guide%20assets/FBPost.png?raw=true "Example of facebook post"
+[twitterprofile]: guide%20assets/twitterprofie.png?raw=true "Example of twitter profile"
+[logo-pass-1]: guide%20assets/MAIN-pass-1.png?raw=true "Best Practice, Pass 1"
+[logo-pass-2]: guide%20assets/MAIN-pass-2.png?raw=true "Best Practice, Pass 2"
+[logo-pass-3]: guide%20assets/MAIN-pass-3.png?raw=true "Best Practice, Pass 3"
+[logo-fail-1]: guide%20assets/MAIN-fail-1.png?raw=true "Best Practice, Fail 1"
+[logo-fail-2]: guide%20assets/MAIN-fail-2.png?raw=true "Best Practice, Fail 2"
+[logo-fail-3]: guide%20assets/MAIN-fail-3.png?raw=true "Best Practice, Fail 3"
+[logo-fail-4]: guide%20assets/MAIN-fail-4.png?raw=true "Best Practice, Fail 4"
+[logo-fail-5]: guide%20assets/MAIN-fail-5.png?raw=true "Best Practice, Fail 5"
+[logo-fail-6]: guide%20assets/MAIN-fail-6.png?raw=true "Best Practice, Fail 6"
+[logo-fail-7]: guide%20assets/MAIN-fail-7.png?raw=true "Best Practice, Fail 7"
