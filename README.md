@@ -6,15 +6,15 @@ These guidelines exist to ensure consistent communication with the DHIS2 brand. 
 
 # Logo
 
-## Master Logo
+## Main Logo
 
 <img src="/web/Logo/Default/dhis2-logo-rgb-positive.png" width="390"/>
 
-The master DHIS2 logo should be used overall, whenever possible. The master logo is a blue colored icon with black colored dhis2 wordmark.
+The main DHIS2 logo should be used overall, whenever possible. The main logo is a blue colored icon with black colored dhis2 wordmark.
 
-[Download master logo (PNG format)](/web/Logo/Default/dhis2-logo-rgb-positive.png)<br>
-[Download master logo (SVG format)](/web/Logo/Default/dhis2-logo-rgb-positive.svg)<br>
-[Download master logo (EPS format)](/print/Logo/Default/dhis2-logo-rgb-positive.eps)
+Download main logo (PNG format): [Small size - 200px](/web/Logo/Default/dhis2-logo-rgb-positive-200.png), [Medium size - 600px](/web/Logo/Default/dhis2-logo-rgb-positive-600.png), [Large size - 1200px](/web/Logo/Default/dhis2-logo-rgb-positive-1200.png),<br>
+[Download main logo (SVG format)](/web/Logo/Default/dhis2-logo-rgb-positive.svg)<br>
+[Download main logo (EPS format)](/print/Logo/Default/dhis2-logo-rgb-positive.eps)
 
 ## Logo Variations
 
