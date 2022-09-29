@@ -2,15 +2,15 @@
 
 ---
 
-These guidelines exist to ensure consistent communication with the DHIS2 brand. There are some rules and some recommendations. This is a living document that will be updated as the brand evolves. Please reach out if there are elements that are missing.
+These guidelines exist to ensure consistent communication using the DHIS2 brand. There are some rules and some recommendations. This is a living document that will be updated as the brand evolves.
 
 # Logo
 
 ## Main Logo
 
-<img src="/web/Logo/Default/dhis2-logo-rgb-positive.png" width="390"/>
+<img src="web/Logo/Default/dhis2-logo-rgb-positive.png" width="390"/>
 
-The main DHIS2 logo should be used overall, whenever possible. The main logo is a blue colored icon with black colored dhis2 wordmark.
+The main DHIS2 logo should be used by default, whenever possible. The main logo is a blue colored icon with black colored dhis2 wordmark.
 
 Download main logo (PNG format): [Small size - 200px](/web/Logo/Default/dhis2-logo-rgb-positive-200.png), [Medium size - 600px](/web/Logo/Default/dhis2-logo-rgb-positive-600.png), [Large size - 1200px](/web/Logo/Default/dhis2-logo-rgb-positive-1200.png),<br>
 [Download main logo (SVG format)](/web/Logo/Default/dhis2-logo-rgb-positive.svg)<br>
@@ -22,7 +22,7 @@ Download main logo (PNG format): [Small size - 200px](/web/Logo/Default/dhis2-lo
 
 <img src="guide assets/logo-example-negative.png" width="420"/>
 
-When placing the DHIS2 logo on a dark background, the reversed version can be used. The icon and wordmark are white in this version. The reversed logo can be placed on any colored background, but ideally blue would be used to remain consistent with the DHIS2 brand.
+When placing the DHIS2 logo on a dark background, the reversed version can be used. The icon and wordmark are white in this version. The reversed logo can be used on any colored background, but ideally blue would be used to remain consistent with the DHIS2 brand.
 
 [Download reversed logo (PNG format)](/web/Logo/Reversed/dhis2-logo-rgb-negative.png)<br>
 [Download reversed logo (SVG format)](/web/Logo/Reversed/dhis2-logo-rgb-negative.svg)<br>
@@ -47,7 +47,7 @@ There are times when it makes sense to use only the DHIS2 icon, such as in heade
 
 ![dhis2 favicon examples][favicon]
 
-The Favicon for DHIS2 is cutomised for use on the following platforms:
+The Favicon for DHIS2 is customized for use on the following platforms:
 
 - Desktop web browsers use a blue colored icon
 - iOS devices
@@ -97,7 +97,7 @@ The following colors can be used throughout materials both digital and print. Se
 `RGB: 255 / 255 / 255`
 `CMYK: 0 / 0 / 0 / 0`
 
-Is white a color? The debate rages on. White is listed here at the top of this list to reiterate how important the usage of white space is in the DHIS2 identity. White space on posters, presentations and other materials communicates DHIS2 as a clean, confident and modern entity, an important part of the new identity. Do not be afriad to leave generous white space in all materials. The main color of most DHIS2 materials should be white.
+White is listed at the top of this list to reiterate how important the usage of white space is in the DHIS2 identity. White space on posters, presentations and other materials communicates DHIS2 as a clean, confident and modern entity, an important part of the new identity. Leave generous white space in all materials. The main color of most DHIS2 materials should be white.
 
 ### DHIS2 Accent
 
@@ -156,23 +156,23 @@ This blue was often used as part of the previous DHIS2 identity, but it should n
 
 ### DHIS2 logo blue?
 
-The blue color used in the DHIS2 logo icon is purposefully not included here. This blue color should be used only for the logo icon, never in any other way. It is important for recognisability, consistency and stability that this blue color is only associated with the DHIS2 logo.
+The blue color used in the DHIS2 logo icon is purposefully not included here. This blue color should be used only for the logo icon, never in any other way. It is important for recognizability, consistency and stability that this blue color is only associated with the DHIS2 logo.
 
 ---
 
 # Graphic Elements
 
-In order for DHIS2 to communicate its flexibility, graphic elements are kept ambiguious and avoid associating with any particular industry (for example; healthcare). The following graphic elements are based on the forms and angles that make up the DHIS2 logo.
+In order for DHIS2 to communicate its flexibility, graphic elements are kept ambiguous and avoid associating with any particular industry (for example; healthcare). The following graphic elements are based on the forms and angles that make up the DHIS2 logo.
 
 ![graphic example][graphicexample]
 
 ### Oblong shape
 
-The oblong shape that makes up the DHIS2 logo can be used to create a graphic pattern that adds interest and personality in an ambigous way. The soft edges communicate an approachable system. This graphic pattern is available in this repository in several different formats, sizes and types for use in presentations, documents and other materials.
+The oblong shape that makes up the DHIS2 logo can be used to create a graphic pattern that adds interest and personality in an ambiguous way. The soft edges communicate an approachable system. This graphic pattern is available in this repository in several different formats, sizes and types for use in presentations, documents and other materials.
 
 #### Usage
 
-The pattern is best used at the bottom, or sides of a document/signage. The pattern is available in different types: block, which has hard egdes, and faded, which fades the pattern gradually to transparent.
+The pattern is best used at the bottom, or sides of a document/signage. The pattern is available in different types: block, which has hard edges, and faded, which fades the pattern gradually to transparent.
 
 See the below Examples in Use for further suggestions for usage. Templates are provided in this repository for common formats.
 
@@ -186,7 +186,7 @@ The DHIS2 icon used in the logo should not be used as a graphical element. It ca
 
 Follow these guidelines when using the DHIS2 logo to ensure consistency and reliability across all DHIS2 materials. Using consistent branding everywhere makes DHIS2 more trustworthy and accessible for all.
 
-### Do: Use the offical logo files
+### Do: Use the official logo files
 
 The official DHIS2 logos can be downloaded in various formats from this repo. Use these files in all materials, do not recreate the logo or icon.<br>
 ![Example logo in use][logo-pass-1]
