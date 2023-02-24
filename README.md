@@ -12,7 +12,7 @@ These guidelines exist to ensure consistent communication using the DHIS2 brand.
 
 The main DHIS2 logo should be used by default, whenever possible. The main logo is a blue colored icon with black colored dhis2 wordmark.
 
-Download main logo (PNG) | [Small 200px](/web/Logo/Default/dhis2-logo-rgb-positive-200.png) | [Medium 600px](/web/Logo/Default/dhis2-logo-rgb-positive-600.png) | [Large  1200px](/web/Logo/Default/dhis2-logo-rgb-positive-1200.png)<br>
+[Download main logo (PNG)](/web/Logo/Default/dhis2-logo-rgb-positive.png) | [Small 200px](/web/Logo/Default/dhis2-logo-rgb-positive-200.png) | [Medium 600px](/web/Logo/Default/dhis2-logo-rgb-positive-600.png) | [Large  1200px](/web/Logo/Default/dhis2-logo-rgb-positive-1200.png)<br>
 [Download main logo (SVG)](/web/Logo/Default/dhis2-logo-rgb-positive.svg)<br>
 [Download main logo (EPS)](/print/Logo/Default/dhis2-logo-rgb-positive.eps)
 
@@ -24,7 +24,7 @@ Download main logo (PNG) | [Small 200px](/web/Logo/Default/dhis2-logo-rgb-positi
 
 When placing the DHIS2 logo on a dark background, the reversed version can be used. The icon and wordmark are white in this version. The reversed logo can be used on any colored background, but ideally blue would be used to remain consistent with the DHIS2 brand.
 
-[Download reversed logo (PNG)](/web/Logo/Reversed/dhis2-logo-rgb-negative.png)<br>
+[Download reversed logo (PNG)](/web/Logo/Reversed/dhis2-logo-rgb-negative.png) | [Small 200px](/web/Logo/Reversed/dhis2-logo-rgb-negative-200.png) | [Medium 600px](/web/Logo/Reversed/dhis2-logo-rgb-negative-600.png) | [Large  1200px](/web/Logo/Reversed/dhis2-logo-rgb-negative-1200.png)<br>
 [Download reversed logo (SVG)](/web/Logo/Reversed/dhis2-logo-rgb-negative.svg)<br>
 [Download reversed logo (EPS)](/print/Logo/Reversed/dhis2-logo-rgb-negative.eps)
 
