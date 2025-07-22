@@ -4,7 +4,7 @@ These guidelines exist to ensure consistent communication with the DHIS2 and DHI
 
 *Please note: The DHIS2 Academy Identity applies for both the DHIS2 Academies and the DHIS2 Online Academy. The academy type should be specified elsewhere in the text/website/information, not in the logo itself.*
 
-*Please send all DHIS2 Academy materials to alice@dhis2.org for approval before using.*
+*Please send all DHIS2 Academy materials to academy@dhis2.org for approval before using.*
 
 # Logo
 ## Master Logo
